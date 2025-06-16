@@ -6,6 +6,7 @@ segmentation. The czifile library (version 2019.7.2) is used for image handling,
 ## Example of nuclei and nucleoprotein counted with the code (original image with segmenation mask)
 ![Methods_Infectionrate](https://github.com/user-attachments/assets/523bca2a-f5e1-4781-9009-d5ef872140b0)
 
+_Example image of nuclei staining (DAPI, blue) and virus staining (nucleoprotein, red). Middle panels are showing the overlay of the segmentation mask with the original image. Right panels are showing the final segmentation after size filtering with the intial mask as overlay._
 
 ## Please cite the following if you use the code
 >Gabele, L., Bochow, I., Rieke, N., Sieben, C., Michaelsen-Preusse, K., Hosseini, S., et al. (2024). H7N7 viral infection elicits pronounced, sex-specific neuroinflammatory responses in vitro. Front Cell Neurosci 18. doi: 10.3389/fncel.2024.1444876
